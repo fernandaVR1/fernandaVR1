@@ -10,8 +10,16 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Soy un profesional con amplia experiencia en el análisis de datos y la ciencia de datos. Poseo un sólido conocimiento en lenguajes de programación como R y Python, que utilizo para realizar tareas de procesamiento, limpieza y visualización de datos. Además, cuento con experiencia en el uso de herramientas de visualización de datos, como Power BI, para presentar información de manera clara y efectiva.
 
-Here are some ideas to get you started:
+He completado múltiples cursos y capacitaciones especializadas en análisis de datos, incluyendo técnicas avanzadas de minería de datos y aprendizaje automático. Estos conocimientos me permiten desarrollar modelos predictivos y realizar análisis exploratorio de datos para obtener información valiosa que pueda impulsar la toma de decisiones empresariales.
+
+También tengo experiencia en el análisis de lenguaje natural utilizando Python, lo que me permite extraer información útil de grandes volúmenes de texto y realizar tareas como la detección de sentimientos, clasificación de texto y generación de resúmenes automáticos.
+
+En cuanto al manejo de software, tengo un dominio avanzado de SPSS, una herramienta estadística ampliamente utilizada en la industria para el análisis de datos y la generación de informes. Además, estoy en proceso de aprendizaje de SQL, un lenguaje fundamental para la gestión y manipulación de bases de datos relacionales.
+
+
+
 - :school: Actualmente estudio la carrera de Ciencias Políticas en la Pontificia Universidad Católica del Perú
 - 👨‍💻 Actualmente estoy aprendiendo R y Python
 - 👯 Me gustaría colaborar en proyectos de Políticas Públicas 
