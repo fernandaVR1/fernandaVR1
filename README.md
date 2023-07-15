@@ -45,5 +45,5 @@ En cuanto al manejo de software, tengo un dominio avanzado de SPSS, una herramie
 
 <details>
   <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaVR1&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
