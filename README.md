@@ -40,7 +40,7 @@ En cuanto al manejo de software, tengo un dominio avanzado de SPSS, una herramie
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandaVR1&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
